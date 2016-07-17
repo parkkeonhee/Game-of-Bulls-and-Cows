@@ -10,6 +10,7 @@ Write a Java program for the game of BULLS and COWS, called Bulls.java. The obje
 Consider numbers in the range 1000 and 9999 which do not have repeating digits. Given two such numbers, we define the number of BULLS and COWS for the pair of numbers as follows:
 
 BULLS = number of digits that appear in the same positions in the two numbers. 
+
 COWS = number of digits that appear in both the numbers, but at different positions.
 
 For example, if the two numbers were 2367 and 1327, we have 2 BULLS (for the exact matches for digits 3 and 7) and 1 COW (for the remaining common digit 2 which is in different positions in the two numbers). If the numbers were 9852 and 8926, we have 0 BULLS and 3 COWS and if the numbers were 1234 and 4321, we have 0 BULLS and 4 COWS. It is quite clear that if the two numbers are the same, we have 4 BULLS and 0 COWS.
