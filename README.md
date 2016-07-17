@@ -21,34 +21,61 @@ Two sample runs are shown below:
 A winning sample run:
 
 Welcome to the game of BULLS and COWS.
+
 The objective in this game is for you to guess a 4-digit number
+
 The computer responds with how close your guess is to the target
+
 BULLS = # common digits with exact matches and
+
 COWS  = # common digits in wrong position.
 
 Enter guess number 1: aw
+
 Your guess should contain 4 symbols (digits)
+
 Enter guess number 1: 123
+
 Your guess should contain 4 symbols (digits)
+
 Enter guess number 1: 1a34
+
 Your guess should not contain non-digits
+
 Enter guess number 1: 1233
+
 Your guess should not contain repeating digits
+
 Enter guess number 1: 1234
+
 Bulls = 0  Cows = 3
+
 Enter guess number 2: 2413
+
 Bulls = 3  Cows = 0
+
 Enter guess number 3: 2418
+
 Bulls = 3  Cows = 0
+
 Enter guess number 4: 2419
+
 Bulls = 4  Cows = 0
+
 Congratulations; You Won!!
 
+----------------------------------------------------------------------------------------------------------------------------
+
 A non-winning sample run:
+
 Welcome to the game of BULLS and COWS.
+
 The objective in this game is for you to guess a 4-digit number
+
 The computer responds with how close your guess is to the target
+
 BULLS = # common digits with exact matches and
+
 COWS  = # common digits in wrong position.
 
 Enter guess number 1: qwer
