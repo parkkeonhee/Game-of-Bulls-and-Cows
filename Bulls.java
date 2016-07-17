@@ -5,6 +5,8 @@
  * 
  * This project is from http://grid.cs.gsu.edu/~csc2010/f13/assignments/h8/
  * 
+ * This Java program focuses on encapsulation of object-oriented programming.
+ * 
  * Description: The objective of this game is to make the player guess a randomly generated 4-digit number.
  *  The guessed number should not have repeating digits, and will be in the range 1000 to 9999.
  *  The player will be given a maximum of 10 tries to guess.
